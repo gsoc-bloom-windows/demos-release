@@ -1,0 +1,4 @@
+Source: ros-dashing-dummy-map-server
+Version: 0.7.8
+Description: dummy map server node
+Build-Depends:
