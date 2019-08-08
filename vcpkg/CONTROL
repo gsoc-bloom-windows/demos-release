@@ -1,4 +1,0 @@
-Source: ros-dashing-intra-process-demo
-Version: 0.7.8
-Description: Demonstrations of intra process communication.
-Build-Depends:
