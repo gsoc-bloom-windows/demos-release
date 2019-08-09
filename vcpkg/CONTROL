@@ -1,0 +1,4 @@
+Source: ros-dashing-demo-nodes-cpp-native
+Version: 0.7.8
+Description: C++ nodes which access the native handles of the rmw implemenation.
+Build-Depends:
