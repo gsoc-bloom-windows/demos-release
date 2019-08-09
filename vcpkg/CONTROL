@@ -1,4 +1,0 @@
-Source: ros-dashing-composition
-Version: 0.7.8
-Description: Examples for composing multiple nodes in a single process.
-Build-Depends:
