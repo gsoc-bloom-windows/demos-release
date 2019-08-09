@@ -1,0 +1,4 @@
+Source: ros-dashing-lifecycle
+Version: 0.7.8
+Description: Package containing demos for lifecycle implementation
+Build-Depends:
