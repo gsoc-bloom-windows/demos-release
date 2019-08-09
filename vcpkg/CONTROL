@@ -1,4 +1,0 @@
-Source: ros-dashing-topic-monitor
-Version: 0.7.8
-Description: Package containing tools for monitoring ROS 2 topics.
-Build-Depends:

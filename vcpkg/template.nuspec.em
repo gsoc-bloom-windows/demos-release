@@ -1,20 +1,15 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>ros-dashing-topic-monitor</id>
-    <version>0.7.8</version>
-    <title>ros-dashing-topic-monitor</title>
-    <authors>D. Hood</authors>
+    <id>@(Package)</id>
+    <version>@(Version)</version>
+    <title>@(Package)</title>
+    <authors>@(Authors)</authors>
     <owners>OSRF</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Package containing tools for monitoring ROS 2 topics.</description>
+    <description>@(Description)</description>
     <dependencies>
-			<dependency id="ros-dashing-launch"/>
-			<dependency id="ros-dashing-launch-ros"/>
-			<dependency id="ros-dashing-rclpy"/>
-			<dependency id="ros-dashing-std-msgs"/>
-			<dependency id="ros-dashing-ros-workspace"/>
-
+@[for d in Depends]@(d)@[end for]
     </dependencies>
   </metadata>
   <files>
