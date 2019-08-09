@@ -1,0 +1,4 @@
+Source: ros-dashing-image-tools
+Version: 0.7.8
+Description: Tools to capture and play back images to and from DDS subscriptions and publications.
+Build-Depends:
