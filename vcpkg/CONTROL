@@ -1,0 +1,4 @@
+Source: ros-dashing-quality-of-service-demo-cpp
+Version: 0.7.8
+Description: C++ Demo applications for Quality of Service features
+Build-Depends:
