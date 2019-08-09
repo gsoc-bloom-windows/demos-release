@@ -1,0 +1,4 @@
+Source: ros-dashing-demo-nodes-cpp
+Version: 0.7.8
+Description: C++ nodes which were previously in the ros2/examples repository but are now just used for demo purposes.
+Build-Depends:
